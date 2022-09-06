@@ -1,5 +1,5 @@
 ---
-title: "Manuscript Title"
+title: "CEE 492 Data Science Project"
 keywords:
   - markdown
   - publishing
@@ -7,13 +7,13 @@ keywords:
 lang: en-US
 authors:
   - github: johndoe
-    name: John Doe
-    initials: JD
+    name: Marcin Nieradka
+    initials: MN
     orcid: XXXX-XXXX-XXXX-XXXX
     twitter: johndoe
     email: john.doe@something.com
     affiliations:
-      - Department of Something, University of Whatever
+      - Department of CEE, University of Illinois
     funders:
       - Grant XXXXXXXX
   - github: janeroe
