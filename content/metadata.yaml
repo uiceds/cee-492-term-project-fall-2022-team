@@ -1,26 +1,28 @@
 ---
-title: "Manuscript Title"
+<<<<<<< HEAD
+title: "CEE 492 Data Science Project"
+=======
+title: "GitHub Worksheet"
+>>>>>>> 68af14dcfddc3c64a562ae8e25a75e8b9bacad25
 keywords:
   - markdown
   - publishing
   - manubot
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
+<<<<<<< HEAD
+  - github: mnieradka
+    name: Marcin Nieradka
+    initials: MN
+=======
+  - github: jlaw04
+    name: Jack Lawrence
+    initials: JL
+>>>>>>> 68af14dcfddc3c64a562ae8e25a75e8b9bacad25
     orcid: XXXX-XXXX-XXXX-XXXX
     twitter: johndoe
     email: john.doe@something.com
     affiliations:
-      - Department of Something, University of Whatever
+      - Department of CEE, University of Illinois
     funders:
       - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
