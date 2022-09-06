@@ -8,7 +8,6 @@ lang: en-US
 date-meta: '2022-09-06'
 author-meta:
 - Jack Lawrence
-- Jane Roe
 header-includes: |-
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -31,19 +30,15 @@ header-includes: |-
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
   <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
   <link rel="canonical" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team/" />
   <meta property="og:url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team/" />
   <meta property="twitter:url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team/" />
   <meta name="citation_fulltext_html_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team/" />
   <meta name="citation_pdf_url" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team/v/2c5a13a577e7c5a0925e13d8d8f53ae960325adc/" />
-  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team/v/2c5a13a577e7c5a0925e13d8d8f53ae960325adc/" />
-  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team/v/2c5a13a577e7c5a0925e13d8d8f53ae960325adc/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://uiceds.github.io/cee-492-term-project-fall-2022-team/v/68af14dcfddc3c64a562ae8e25a75e8b9bacad25/" />
+  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team/v/68af14dcfddc3c64a562ae8e25a75e8b9bacad25/" />
+  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/cee-492-term-project-fall-2022-team/v/68af14dcfddc3c64a562ae8e25a75e8b9bacad25/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +60,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-team/v/2c5a13a577e7c5a0925e13d8d8f53ae960325adc/))
+([permalink](https://uiceds.github.io/cee-492-term-project-fall-2022-team/v/68af14dcfddc3c64a562ae8e25a75e8b9bacad25/))
 was automatically generated
-from [uiceds/cee-492-term-project-fall-2022-team@2c5a13a](https://github.com/uiceds/cee-492-term-project-fall-2022-team/tree/2c5a13a577e7c5a0925e13d8d8f53ae960325adc)
+from [uiceds/cee-492-term-project-fall-2022-team@68af14d](https://github.com/uiceds/cee-492-term-project-fall-2022-team/tree/68af14dcfddc3c64a562ae8e25a75e8b9bacad25)
 on September 6, 2022.
 </em></small>
 
@@ -85,15 +80,6 @@ on September 6, 2022.
   <small>
      Department of Something, University of Whatever
      · Funded by Grant XXXXXXXX
-  </small>
-
-+ **Jane Roe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
-  <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
   </small>
 
 
